@@ -39,6 +39,3 @@ Here's an example of how to use the countdown timer:
 
 Contributions are welcome! If you have any improvements or bug fixes, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
